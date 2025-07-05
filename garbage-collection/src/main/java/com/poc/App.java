@@ -13,6 +13,21 @@ public class App
 
         System.gc(); // Suggest GC
 
+        try{
+
+        } catch(Exception e) {
+
+        } finally {
+
+        }
+
+       /* try() {
+
+        } catch() {
+
+        }*/
+
+
         System.out.println("Garbage Collection suggested");
     }
 
