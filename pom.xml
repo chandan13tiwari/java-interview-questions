@@ -13,6 +13,7 @@
     <!-- add more here as you go -->
     <module>inner-classes</module>
     <module>lambda-expressions</module>
+    <module>garbage-collection</module>
   </modules>
 
   <name>java-interview-questions</name>
