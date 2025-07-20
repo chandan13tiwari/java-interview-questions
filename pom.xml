@@ -15,6 +15,7 @@
     <module>lambda-expressions</module>
     <module>garbage-collection</module>
     <module>final-finally-finalize</module>
+      <module>threads</module>
   </modules>
 
   <name>java-interview-questions</name>
