@@ -16,6 +16,7 @@
     <module>garbage-collection</module>
     <module>final-finally-finalize</module>
       <module>threads</module>
+      <module>collections</module>
   </modules>
 
   <name>java-interview-questions</name>
